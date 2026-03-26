@@ -4,3 +4,5 @@ youtuber=""#Some string variable
 
 # A few ways to say this 
 print("subscribe to "+youtuber)
+print("subscribe to {}".format(youtuber))
+print(f"subscribe to {youtuber}")
