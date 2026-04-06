@@ -11,7 +11,7 @@ def play():
     if is_win(user, computer):
         return 'You won!'
     
-    return 'You lost!, Better luck nest time.'
+    return 'You lost!,Better luck nest time.'
 
 def is_win(player, opponent):
     #return true if player wins
